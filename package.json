@@ -1,0 +1,22 @@
+{
+  "name": "scalepic",
+  "version": "1.0.0",
+  "description": "Easy way to scale your pics in web",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeshble/scalePic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeshble/scalePic/issues"
+  },
+  "homepage": "https://github.com/leeshble/scalePic#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
